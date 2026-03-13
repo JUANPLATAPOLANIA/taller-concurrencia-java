@@ -1,3 +1,4 @@
+package Banco;
 class CuentaBancaria {
 
     private int saldo = 1000;
